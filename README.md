@@ -8,6 +8,7 @@ Some links contains a small referral link to support my [open source Bitcoin con
 - [Ledger 40% Off With Promo Code "BlackFriday20"](https://shop.ledger.com/pages/black-friday?r=8da2)
 - [BitBox 20% Off (discount automatically applied)](https://shiftcrypto.shop/?ref=hgqnx5ueQg)
 - [Foundation Devices $20 Off With Promo Code "BLACKFRIDAY"](https://foundationdevices.com/)
+- [Cobo Vault 15% Off (discount automatically applied)](https://shop.cobo.com/?rfsn=5124577.6410e9&utm_source=refersion&utm_medium=affiliate&utm_campaign=5124577.6410e9)
 
 ## Seed Backup
 - [Cryptosteel 10% Off (discount automatically applied)](https://cryptosteel.com/shop/?csr=569)
