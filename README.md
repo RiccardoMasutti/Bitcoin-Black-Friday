@@ -9,5 +9,7 @@ Some links contains a small referral link to support my [open source Bitcoin con
 - [BitBox 20% Off (discount automatically applied)](https://shiftcrypto.shop/?ref=hgqnx5ueQg)
 - [Foundation Devices $20 Off With Promo Code "BLACKFRIDAY"](https://foundationdevices.com/)
 
+## Seed Backup
+- [Cryptosteel 10% Off (discount automatically applied)](https://cryptosteel.com/shop/?csr=569)
 
 (Work in progress)
