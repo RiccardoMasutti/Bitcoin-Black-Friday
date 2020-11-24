@@ -7,3 +7,7 @@ Links contains a small referral link to support my [open source Bitcoin contribu
 - [TREZOR 20% Off With Promo Code "BLACKFRIDAY2020"](https://shop.trezor.io/?offer_id=10&aff_id=3779) 
 - [Ledger 40% Off With Promo Code "BlackFriday20"](https://shop.ledger.com/pages/black-friday?r=8da2)
 - [BitBox 20% Off (discount automatically applied)](https://shiftcrypto.shop/?ref=hgqnx5ueQg)
+
+
+
+(Work in progress)
