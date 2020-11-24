@@ -14,6 +14,6 @@ Some links contains a small referral link to support my [open source Bitcoin con
 - [Cryptosteel 10% Off (discount automatically applied)](https://cryptosteel.com/shop/?csr=569)
 
 ## 2 Factor Authentication
-- [Yubikey Black Friday deals (discount automatically applied](https://www.yubico.com/ch/store/black-friday/)
+- [Yubikey Black Friday deals (discount automatically applied)](https://www.yubico.com/ch/store/black-friday/)
 
 (Work in progress)
